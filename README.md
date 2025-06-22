@@ -1,25 +1,26 @@
 # DAMOA
 다들 화이팅
 
+### 메인 화면
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/0a0e267a-4c5e-4b91-b223-ed012bdcd780)
-메인 화면
 
+## 로그인 화면
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/da4be4b2-5752-4b7d-8b5f-019c85d2481f)
-로그인 화면
 
+### 로그인 형식에 맞지 않을 때
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/e6bac765-6301-48b3-ab99-d050ccbd1f41)
-로그인 형식에 맞지 않을 때
 
+### 회원가입 화면
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/e5a92fee-f7bc-4b04-89a2-64e23e62d798)
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/56237382-7ee6-4638-bb6b-9cd6081a2a96)
-회원가입 화면
 
-웹 사이트
+### 웹 사이트
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/56002d06-eac4-4d83-9519-828aa64a2242)
 메인 화면 위 - 분야별 클럽 게시판과 연결
 
+### 메인 화면 중간 - 클럽 생성
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/09739010-8d0f-47c2-ae4a-a607dd8f92ab)
-메인 화면 중간 - 클럽 생성
+
 
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/c0503abf-99a6-49c9-a48b-209e569f51b6)
 자신이 만든 클럽만 삭제 가능
