@@ -1,6 +1,6 @@
 # DAMOA
 
-### 메인 화면
+## 메인 화면
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/0a0e267a-4c5e-4b91-b223-ed012bdcd780)
 
 ## 로그인 화면
@@ -9,7 +9,7 @@
 ### 로그인 형식에 맞지 않을 때
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/e6bac765-6301-48b3-ab99-d050ccbd1f41)
 
-### 회원가입 화면
+## 회원가입 화면
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/e5a92fee-f7bc-4b04-89a2-64e23e62d798)
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/56237382-7ee6-4638-bb6b-9cd6081a2a96)
 
