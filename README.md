@@ -13,22 +13,25 @@
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/e5a92fee-f7bc-4b04-89a2-64e23e62d798)
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/56237382-7ee6-4638-bb6b-9cd6081a2a96)
 
-### 메인 화면 위 - 분야별 클럽 게시판과 연결
+## 메인 화면 
+- 분야별 클럽 게시판과 연결
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/56002d06-eac4-4d83-9519-828aa64a2242)
 
-### 메인 화면 중간 - 클럽 생성
+### 메인 화면 
+- 클럽 생성
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/09739010-8d0f-47c2-ae4a-a607dd8f92ab)
 
 ### 자신이 만든 클럽만 삭제 가능
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/c0503abf-99a6-49c9-a48b-209e569f51b6)
 
-### 메인 화면 아래 - 분류
+### 메인 화면
+- 분류
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/59d0f870-f50d-4710-a846-2faaa645ced5)
 
 ### 인기순 정렬
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/778fb6a3-69fd-4f38-848e-c8a8c3be4779)
 
-### 게시글 작성 화면
+## 게시글 작성 화면
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/7a1bd22b-b39c-40b9-8915-0d8c96ec365e)
 
 ### 게시글 작성 시, 만들어진 클럽 선택
