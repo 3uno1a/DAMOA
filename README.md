@@ -14,25 +14,22 @@
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/56237382-7ee6-4638-bb6b-9cd6081a2a96)
 
 ## 메인 화면 
-### - 분야별 클럽 게시판과 연결
+- 분야별 클럽 게시판과 연결
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/56002d06-eac4-4d83-9519-828aa64a2242)
 
-### - 클럽 생성
+- 클럽 생성
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/09739010-8d0f-47c2-ae4a-a607dd8f92ab)
 
-자신이 만든 클럽만 삭제 가능
+- 자신이 만든 클럽만 삭제 가능
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/c0503abf-99a6-49c9-a48b-209e569f51b6)
 
-### - 분류
+- 분류
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/59d0f870-f50d-4710-a846-2faaa645ced5)
-
-### 인기순 정렬
-![image](https://github.com/eunjijen/DAMOA/assets/75493219/778fb6a3-69fd-4f38-848e-c8a8c3be4779)
 
 ## 게시글 작성 화면
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/7a1bd22b-b39c-40b9-8915-0d8c96ec365e)
 
-### 게시글 작성 시, 만들어진 클럽 선택
+- 게시글 작성 시, 만들어진 클럽 선택
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/dc42b920-11aa-4c93-94c7-fd2b819c2075)
 
 ### 운동 카테고리 게시판
@@ -42,29 +39,33 @@
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/8652a875-ac04-462c-8ca0-029611d5dd10)
 
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/8c54014a-ae74-4e83-a8f1-f71246e1d205)
-![image](https://github.com/eunjijen/DAMOA/assets/75493219/e6391734-83b0-4df6-aab1-f096c78f7dfe)
+
 ### 키워드 및 모임일로 검색 가능
+![image](https://github.com/eunjijen/DAMOA/assets/75493219/e6391734-83b0-4df6-aab1-f096c78f7dfe)
 
+## 게시글 예시
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/44c97898-344a-4b87-a4d3-a58191200a9e)
-### 게시글 예시
 
+- 현재 참석자와 명수 확인 가능, 참석하기를 누르면 메시지와 함께 한번 더 확인
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/f6ad2bc4-345d-46ce-a31f-0b956d21162e)
-![image](https://github.com/eunjijen/DAMOA/assets/75493219/12199f04-7b62-4e4a-8a73-89143664cfe1)
-### 현재 참석자와 명수가 뜨고, 참석하기를 누르면 메시지와 함께 한번 더 확인
-확인을 누르면 참석자에 추가됨
 
-### 댓글 달기
+- 확인을 누르면 참석자에 추가됨
+![image](https://github.com/eunjijen/DAMOA/assets/75493219/12199f04-7b62-4e4a-8a73-89143664cfe1)
+
+
+
+## 댓글 달기
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/7e83265a-6962-46ab-8925-4e46405f67ee)
 
 ### 댓글 수정 화면
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/38c68eb4-1f45-4046-afe0-d5849823609b)
 
 
-### 자신이 작성한 댓글 수정 및 삭제 가능
+## 자신이 작성한 댓글 수정 및 삭제 가능
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/67d691d8-470d-4f19-bac7-d66acf4a3bed)
 
 
-### 클럽 생성 화면
+## 클럽 생성 화면
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/b5099a29-4a95-449f-b4a9-c700050eada9)
 
 
