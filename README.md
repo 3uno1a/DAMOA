@@ -1,4 +1,7 @@
 # DAMOA
+## Project Info
+- 📅 Duration: 2023.03.03 ~ 2023.03.17 
+- 👥 Team: 3 members 
 
 ## 웹사이트 시작 화면
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/0a0e267a-4c5e-4b91-b223-ed012bdcd780)
