@@ -44,12 +44,12 @@
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/e6391734-83b0-4df6-aab1-f096c78f7dfe)
 
 ## 게시글 예시
+### 현재 참석자와 명수 확인 가능, 참석하기를 누르면 메시지와 함께 한번 더 확인
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/44c97898-344a-4b87-a4d3-a58191200a9e)
 
-- 현재 참석자와 명수 확인 가능, 참석하기를 누르면 메시지와 함께 한번 더 확인
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/f6ad2bc4-345d-46ce-a31f-0b956d21162e)
 
-- 확인을 누르면 참석자에 추가됨
+### 확인을 누르면 참석자에 추가됨
 ![image](https://github.com/eunjijen/DAMOA/assets/75493219/12199f04-7b62-4e4a-8a73-89143664cfe1)
 
 
